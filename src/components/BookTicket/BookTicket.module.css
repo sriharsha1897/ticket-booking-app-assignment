@@ -1,0 +1,8 @@
+.theatreHall {
+    margin: 0 auto;
+    outline: 5px solid #646FD4;
+    width: 650px;
+    height: 500px;
+    padding: 30px;
+    background-image: url("../../images/theatreHall.png");
+}
